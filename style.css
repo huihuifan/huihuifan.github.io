@@ -24,6 +24,10 @@ a {
 	margin-bottom: 30px;
 }
 
+.message {
+	font-size: 10px;
+}
+
 .name {
 	margin-top: 5px;
 	margin-bottom: 2px;
